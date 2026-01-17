@@ -77,7 +77,7 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 *   **[jChatRAG](https://github.com/psilo-hub/jChatRAG)** | `Java` `LLM` `OpenAI API`
     *   Java app connecting to OpenAI API endpoints (like Ollama) for chat. Also makes content for presentation slides.
 
-*Explore more of my work on [GitHub](https://github.com/psilo-hub/).*
+*Explore more of my work [here](https://github.com/psilo-hub/?tab=repositories).*
 
 ---
 
