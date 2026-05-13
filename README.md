@@ -1,15 +1,16 @@
 ## 👋 Hi there, I'm Stefan Voss!  
 
 **Backend Developer (Java/Spring Boot) | Technical Educator | Solutions-Focused Engineer  
-5+ Years in Software Development + 9 Years in Technical Instruction  
-Actively Relocating to Ireland 🇮🇪 (EU Citizen)**
+8+ Years in Software Development + 9 Years in Technical Instruction  
+Based in Germany 🇩🇪 | Open to remote & hybrid roles across Europe and English-speaking markets worldwide (EU Citizen)**
 
-![Last Updated](https://img.shields.io/badge/last%20updated-2026-blue)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026--05--13-blue)
+![Last Updated](https://img.shields.io/github/last-commit/psilo-hub/psilo-hub)
 
 ---
 
 ### 🧑‍💻 About Me
-*   🖥️  Over 5 years as a professional software developer **building robust backend systems**, plus 9 years in academia designing curricula and leading technical instruction at Chinese universities.
+*   🖥️  Over 8 years as a professional software developer **building robust backend systems**, plus 9 years in academia designing curricula and leading technical instruction at Chinese universities.
 *   🚀  Passionate about software development and problem-solving.
 *   💡  Deep expertise in **Java backend ecosystems,** particularly Spring Boot.
 *   🌉  **Fluent German and English speaker**, experienced in bridging technical and cultural communication gaps.
@@ -19,7 +20,7 @@ Actively Relocating to Ireland 🇮🇪 (EU Citizen)**
 ---
 
 ### 🎯 Career Direction
-I am an EU citizen **actively relocating to Ireland** and seeking roles that leverage my unique blend of **hands-on technical depth and proven communication skills**. My primary focus is on **Backend Developer** positions, but I am equally passionate about opportunities where I can build, teach, and design systems.
+I am an EU citizen based in Germany, open to remote work across Europe or relocation to English-speaking countries worldwide. My primary focus is on **Backend Developer** positions, but I am equally passionate about opportunities where I can build, teach, and design systems.
 
 **Ideal roles include:**
 *   **Backend Developer** – Building scalable, robust systems with Java & Spring Boot.
@@ -27,14 +28,13 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 *   **Technical Trainer / Developer Advocate** – Teaching complex concepts and advocating for technology through documentation and presentation.
 *   **Senior Technical Instructor** – Leading technical education programs and curriculum development.
 
-*Open to opportunities in **Dublin, Cork, Galway, or remote within Ireland.** I welcome conversations about software, relocation, or potential collaborations.*
+*Open to remote opportunities across Europe or on-site/hybrid roles in English-speaking countries (EU, UK, Ireland, Canada, Australia, NZ, etc.). I welcome conversations about software, relocation, or potential collaborations.*
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 Currently freelancing
 
-*   **[LumenSpei](https://github.com/LumenSpei)** — A project I'm actively developing.
-*   **[1ured](https://github.com/1ured)** — Another project I'm contributing to.
+*   Most interesting project: Backend dev and AI integration at **[1ured](https://1ured.hr/)** / **[LumenSpei](https://lumenspei.com/)**.
 
 ---
 
@@ -98,13 +98,7 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 
 ### 📈 My GitHub Activity
 
-#### Contribution Grid
-
 ![GitHub Contributions](https://ghchart.rshah.org/psilo-hub)
-
-#### Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psilo-hub&theme=github-compact&days=90)](https://github.com/psilo-hub/)
 
 ---
 
@@ -114,7 +108,7 @@ My career combines deep technical expertise with a passion for education and pro
 *   **Early Foundation:** A lifelong passion for technology, starting with programming on a Commodore 64, later formalized through a Computer Science & Mathematics degree at TU Dortmund. My diploma thesis focused on designing a high-performance Fast Marching algorithm for real-world manufacturing software.
 *   **Professional Development:** Began my career as a Software Developer at DR. MARKET SOFTWARE TECHNIK AG, developing automated testing systems and robust Java applications in an Agile environment.
 *   **Academic Leadership:** Spent 9 years in Chinese academia as a Senior Technical Instructor and Lecturer, designing and delivering curricula in Java, mobile development, and full software project lifecycles.
-*   **Return to Core Development:** Now, I am fully refocused on modern backend software development. I am eager to leverage my algorithmic thinking, extensive Java/Spring Boot expertise, and unique experience in teaching complex systems to contribute to high-performing backend teams in Ireland.
+*   **Return to Core Development:** Now, I am fully refocused on modern backend software development. I am eager to leverage my algorithmic thinking, extensive Java/Spring Boot expertise, and unique experience in teaching complex systems to contribute to high-performing backend teams across Europe and beyond.
 
 This combination of hands-on development experience, algorithmic rigor, and teaching background allows me to quickly master complex systems and contribute effectively to team growth and project success.
 
@@ -126,6 +120,6 @@ This combination of hands-on development experience, algorithmic rigor, and teac
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan_voss@gmx.de)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psilo-hub/)
 
-I'm always open to discussing technology, opportunities, or the move to Ireland!
+I'm always open to discussing technology, opportunities, or potential collaborations!
 
 ---
