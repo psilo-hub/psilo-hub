@@ -4,6 +4,8 @@
 5+ Years in Software Development + 9 Years in Technical Instruction  
 Actively Relocating to Ireland 🇮🇪 (EU Citizen)**
 
+![Last Updated](https://img.shields.io/badge/last%20updated-2026-blue)
+
 ---
 
 ### 🧑‍💻 About Me
@@ -26,6 +28,13 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 *   **Senior Technical Instructor** – Leading technical education programs and curriculum development.
 
 *Open to opportunities in **Dublin, Cork, Galway, or remote within Ireland.** I welcome conversations about software, relocation, or potential collaborations.*
+
+---
+
+### 🔭 Currently Working On
+
+*   **[LumenSpei](https://github.com/LumenSpei)** — A project I'm actively developing.
+*   **[1ured](https://github.com/1ured)** — Another project I'm contributing to.
 
 ---
 
@@ -69,6 +78,12 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilo-hub&layout=compact&theme=dark)
+
+---
+
 ### 🚀 Side-Projects
 
 *   **[Watchlist Scraper](https://github.com/psilo-hub/watchlistScraper)** | `Java` `Spring Boot` `Web Scraping` `API Development`
@@ -78,6 +93,12 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
     *   Java app connecting to OpenAI API endpoints (like Ollama) for chat. Also makes content for presentation slides.
 
 *Explore more of my work [here](https://github.com/psilo-hub/?tab=repositories).*
+
+---
+
+### 📈 My GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psilo-hub&theme=github-compact)](https://github.com/psilo-hub/)
 
 ---
 
