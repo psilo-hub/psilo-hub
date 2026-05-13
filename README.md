@@ -4,8 +4,7 @@
 8+ Years in Software Development + 9 Years in Technical Instruction  
 Based in Germany 🇩🇪 | Open to remote & hybrid roles across Europe and English-speaking markets worldwide (EU Citizen)**
 
-![Last Updated](https://img.shields.io/badge/last%20updated-2026--05--13-blue)
-![Last Updated](https://img.shields.io/github/last-commit/psilo-hub/psilo-hub)
+Updated: ![Last Updated](https://img.shields.io/github/last-commit/psilo-hub/psilo-hub)
 
 ---
 
@@ -78,13 +77,10 @@ I am an EU citizen based in Germany, open to remote work across Europe or reloca
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilo-hub&layout=compact&theme=dark)
-
----
-
 ### 🚀 Side-Projects
+
+*   **[Chronicle](https://github.com/psilo-hub/Chronicle)** | `Java` `LLM` `OpenAI API` `Ollama` `RAG`
+    *   **RAG** system powered by Apache Lucene to give characters long-term memory.
 
 *   **[Watchlist Scraper](https://github.com/psilo-hub/watchlistScraper)** | `Java` `Spring Boot` `Web Scraping` `API Development`
     *   Spring Boot based microservice with REST API for scraping infos about Movies and Tv Shows from pages like IMDb - Part of a "watchlist app" project I'm working on.
