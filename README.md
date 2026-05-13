@@ -98,7 +98,13 @@ I am an EU citizen **actively relocating to Ireland** and seeking roles that lev
 
 ### 📈 My GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psilo-hub&theme=github-compact)](https://github.com/psilo-hub/)
+#### Contribution Grid
+
+![GitHub Contributions](https://ghchart.rshah.org/psilo-hub)
+
+#### Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psilo-hub&theme=github-compact&days=90)](https://github.com/psilo-hub/)
 
 ---
 
